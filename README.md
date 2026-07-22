@@ -8,7 +8,7 @@
 
 ## about
 
-Informatik-Student @ LMU München — Theoretical CS, Networking, Computational Linguistics.  
+Computer-Science Student @ LMU München — Theoretical CS, Networking, Computational Linguistics.  
 Interested in systems programming, infrastructure, and keeping things simple.
 
 ---
